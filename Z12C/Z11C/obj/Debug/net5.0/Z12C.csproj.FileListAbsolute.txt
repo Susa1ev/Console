@@ -1,0 +1,16 @@
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\Z12C.exe
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\Z12C.deps.json
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\Z12C.runtimeconfig.json
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\Z12C.runtimeconfig.dev.json
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\Z12C.dll
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\ref\Z12C.dll
+C:\Users\susal\source\repos\Z12C\Z11C\bin\Debug\net5.0\Z12C.pdb
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.AssemblyInfo.cs
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.dll
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\ref\Z12C.dll
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.pdb
+C:\Users\susal\source\repos\Z12C\Z11C\obj\Debug\net5.0\Z12C.genruntimeconfig.cache
