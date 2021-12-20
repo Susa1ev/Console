@@ -1,0 +1,16 @@
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\prac5.1c.exe
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\prac5.1c.deps.json
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\prac5.1c.runtimeconfig.json
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\prac5.1c.runtimeconfig.dev.json
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\prac5.1c.dll
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\ref\prac5.1c.dll
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\bin\Debug\net5.0\prac5.1c.pdb
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.AssemblyInfo.cs
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.dll
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\ref\prac5.1c.dll
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.pdb
+C:\Users\susal\source\repos\prac5.1c\prac5.1c\obj\Debug\net5.0\prac5.1c.genruntimeconfig.cache
