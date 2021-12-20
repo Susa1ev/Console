@@ -1,0 +1,16 @@
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\Z2.1Console.exe
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\Z2.1Console.deps.json
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\Z2.1Console.runtimeconfig.json
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\Z2.1Console.runtimeconfig.dev.json
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\Z2.1Console.dll
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\ref\Z2.1Console.dll
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\bin\Debug\net5.0\Z2.1Console.pdb
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.AssemblyInfo.cs
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.dll
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\ref\Z2.1Console.dll
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.pdb
+C:\Users\susal\source\repos\Z2.1Console\Z2.1Console\obj\Debug\net5.0\Z2.1Console.genruntimeconfig.cache
