@@ -1,0 +1,15 @@
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\Z033.exe
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\Z033.deps.json
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\Z033.runtimeconfig.json
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\Z033.runtimeconfig.dev.json
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\Z033.dll
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\ref\Z033.dll
+C:\Users\susal\source\repos\Z03\Z03\bin\Debug\net5.0\Z033.pdb
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.AssemblyInfo.cs
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.dll
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\ref\Z033.dll
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.pdb
+C:\Users\susal\source\repos\Z03\Z03\obj\Debug\net5.0\Z033.genruntimeconfig.cache
